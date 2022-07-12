@@ -1,0 +1,11 @@
+/home/rs/rust/esw_server_rust_rsoric/target/x86_64-unknown-linux-musl/release/deps/async_compression-82b8cfd67abf3c61.rmeta: /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/lib.rs /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/macros.rs /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/codec/mod.rs /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/unshared.rs /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/util.rs
+
+/home/rs/rust/esw_server_rust_rsoric/target/x86_64-unknown-linux-musl/release/deps/libasync_compression-82b8cfd67abf3c61.rlib: /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/lib.rs /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/macros.rs /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/codec/mod.rs /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/unshared.rs /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/util.rs
+
+/home/rs/rust/esw_server_rust_rsoric/target/x86_64-unknown-linux-musl/release/deps/async_compression-82b8cfd67abf3c61.d: /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/lib.rs /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/macros.rs /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/codec/mod.rs /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/unshared.rs /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/util.rs
+
+/home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/lib.rs:
+/home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/macros.rs:
+/home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/codec/mod.rs:
+/home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/unshared.rs:
+/home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/async-compression-0.3.14/src/util.rs:
