@@ -1,0 +1,11 @@
+D:\repos\esw_server_rust_rsoric\target\release\deps\async_compression-54b15fb6f28cb165.rmeta: C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\lib.rs C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\macros.rs C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\codec\mod.rs C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\unshared.rs C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\util.rs
+
+D:\repos\esw_server_rust_rsoric\target\release\deps\libasync_compression-54b15fb6f28cb165.rlib: C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\lib.rs C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\macros.rs C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\codec\mod.rs C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\unshared.rs C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\util.rs
+
+D:\repos\esw_server_rust_rsoric\target\release\deps\async_compression-54b15fb6f28cb165.d: C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\lib.rs C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\macros.rs C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\codec\mod.rs C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\unshared.rs C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\util.rs
+
+C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\lib.rs:
+C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\macros.rs:
+C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\codec\mod.rs:
+C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\unshared.rs:
+C:\Users\Robert\.cargo\registry\src\github.com-1ecc6299db9ec823\async-compression-0.3.14\src\util.rs:
