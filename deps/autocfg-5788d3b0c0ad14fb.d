@@ -1,0 +1,9 @@
+/home/rs/rust/esw_server_rust_rsoric/target/debug/deps/autocfg-5788d3b0c0ad14fb.rmeta: /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/autocfg-1.1.0/src/lib.rs /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/autocfg-1.1.0/src/error.rs /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/autocfg-1.1.0/src/version.rs
+
+/home/rs/rust/esw_server_rust_rsoric/target/debug/deps/libautocfg-5788d3b0c0ad14fb.rlib: /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/autocfg-1.1.0/src/lib.rs /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/autocfg-1.1.0/src/error.rs /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/autocfg-1.1.0/src/version.rs
+
+/home/rs/rust/esw_server_rust_rsoric/target/debug/deps/autocfg-5788d3b0c0ad14fb.d: /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/autocfg-1.1.0/src/lib.rs /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/autocfg-1.1.0/src/error.rs /home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/autocfg-1.1.0/src/version.rs
+
+/home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/autocfg-1.1.0/src/lib.rs:
+/home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/autocfg-1.1.0/src/error.rs:
+/home/rs/.cargo/registry/src/github.com-1ecc6299db9ec823/autocfg-1.1.0/src/version.rs:
